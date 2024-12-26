@@ -1,0 +1,4 @@
+deb https://kali.mirror1.gnc.am/kali/ kali-rolling main non-free contrib
+deb-src https://kali.mirror1.gnc.am/kali/ kali-rolling main non-free contrib
+deb https://kali.mirror2.gnc.am/kali/ kali-rolling main non-free contrib
+deb-src https://kali.mirror2.gnc.am/kali/ kali-rolling main non-free contrib
